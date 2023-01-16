@@ -1,3 +1,3 @@
 # chatgptapp
 
-chat GPT's flutter api
+chat GPT's flutter application using it's API
