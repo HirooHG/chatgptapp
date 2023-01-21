@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
       providers: [
         BlocProvider<ChatGptBloc>(
           create: (_) => ChatGptBloc()
-        )
+        ),
       ],
       child: HomeView(),
     );
